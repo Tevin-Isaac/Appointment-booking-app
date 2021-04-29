@@ -37,7 +37,7 @@
         <div class="card bg-dark text-white">
             <div class="card-img-overlay">
                 <div class="container">
-                    <form action="/action_page.php">
+                    <form id="frm1" form action="/action_page.php">
                         <div class="row">
                             <div class="col-25">
                                 <label for="fname">First Name</label>
@@ -74,9 +74,11 @@
                             <div class="col-75"></div>
                             <label for="Department">Department</label>
                             <select id="Department" name="Department">
-                          <option value="Doctor ">Doctor</option>
-                          <option value="Phycisian">Phycisian</option>
+                          <option value="Doctor ">Family Doctor</option>
+                          <option value="Phycisian">Colon Surgeon</option>
                           <option value="Dentist">Dentist</option>
+                          <option value="Dentist">Surgeologist</option>
+
                         </select>
                             <label for="Time">Time</label>
                             <select id="time" name="Time">
@@ -85,7 +87,6 @@
                             <option value="2:00pm">2:00pm</option>
                          </select>
                             <button type="button" class="btn btn-primary">Book Appointment</button>
-
                         </div>
 
 
