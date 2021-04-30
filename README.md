@@ -1,5 +1,5 @@
 # Booking
-#### By **Tevin Isaac ** Mary Muthoni **Felix nderitu**
+#### By **Tevin Isaac** ** Mary Muthoni **Felix nderitu** **andrew kiarie**
 ## Description
 This is a web application that enables patients to book for doctor and phycisian Appointments at their convinient time'
 
